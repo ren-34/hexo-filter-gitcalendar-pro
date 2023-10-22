@@ -1,0 +1,41 @@
+{
+  "name": "hexo-butterfly-git-gitcalendar",
+  "version": "1.1.0",
+  "description": "A git commit calendar plugin for hexo",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint ."
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    "lib/",
+    "index.js"
+  ],
+  "contributors": [
+    "Ice Kano",
+    "Lete乐特",
+    "akilarlxh",
+    "lencamo"
+  ],
+  "keywords": [
+    "hexo",
+    "renderer",
+    "git",
+    "calendar",
+    "butterfly",
+    "volantis",
+    "matery",
+    "mengd",
+    "plugins"
+  ],
+  "author": "lencamo",
+  "license": "MIT",
+  "dependencies": {
+    "pug": "^3.0.0"
+  },
+  "repository": {
+    "url": "https://github.com/ren-34/hexo-filter-gitcalendar-pro"
+  }
+}
